@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Finishing my Internship and Graduation Thesis**
-- 🌱 I’m currently learning **Backend**, **Frontend**, **AI / LLM / Deep Learning**
+- 🔭 I’m currently working on **Finding my 2026 summer Internship**
+- 🌱 I’m currently learning **Backend**, **Frontend**, **AI / LLM / Deep Learning**, **Embedded system**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
